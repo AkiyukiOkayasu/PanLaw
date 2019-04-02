@@ -1,7 +1,7 @@
 #pragma once
 
 #include <cmath>
-template <typename FloatType>
+
 class PanLaw
 {
   public:
